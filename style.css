@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+ }
+ head {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(36, 56, 40);
+    height: 100%;
+    margin: 0;
+ }
+ h1 {
+    color: rgb(10, 228, 14);
+  }
+  hr{
+
+    border: 0;
+    
+    width: 100%;
+    
+    height: 2px;
+    
+    background-color: rgb(1, 107, 26);
+    
+    } 
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(36, 56, 40);
+    height: 100%;
+    margin: 0;
+ }
+ a {
+    color: rgb(5, 152, 39);
+  }
+    
+
+.container {
+    width: 100%;
+    height: 100%;
+}
